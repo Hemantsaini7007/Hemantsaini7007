@@ -5,5 +5,5 @@
 - 📫 How to reach me Hemantsaini7007@gmail.com
 
 <!---
-Hemantsaini7007/Hemantsaini7007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hemantsaini7007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
